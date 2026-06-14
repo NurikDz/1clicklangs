@@ -105,14 +105,7 @@ brew tap NurikDz/apps && brew install --cask oneclick
 | GitHub Releases | 53 | Used as last resort — rate-limited |
 | Not trackable | 17 | Commercial / Windows-only / ancient |
 
----
 
-## Building from source
-
-```bash
-git clone https://github.com/NurikDz/1clicklangs
-open 1clicklangs/OneClickLangs.xcodeproj
-```
 
 Requires Xcode 15+ and macOS 14 SDK. No external dependencies — pure Swift and SwiftUI.
 <img width="1392" height="912" alt="Screenshot 2026-06-15 at 01 42 27" src="https://github.com/user-attachments/assets/7a3265bd-e680-4694-b76e-dec559c181d2" />
